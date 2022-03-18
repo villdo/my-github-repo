@@ -1,3 +1,3 @@
-// Kód, který zobrazí text „Hello World“.
-
-console.log("Hello World");
+// Kód, který zobrazí text „Hello World“ .
+const text = "Hello World";
+console.log(text);
